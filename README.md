@@ -2,7 +2,7 @@
 
 A cute, browser-based photobooth built entirely in vanilla HTML, CSS, and JavaScript, with real-time face tracking, live background replacement, and a full editing pipeline.
 
-**🔗 Live demo:**
+**🔗 Live demo:** https://meouuii.github.io/bubbletea_photobooth/
 ---
 
 ## What it does
